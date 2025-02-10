@@ -8,7 +8,7 @@
    
 **Thanks to [Vadym Kurachevskyi](https://gitlab.com/hmvs1/google-keep-to-evernote-converter)**
 
-## Chrome Passwords to Safari IOS (Without MAC)
+## Chrome Passwords to Apple Keychain (Passwords app)
 1. Exports Chrome passwords from Chrome as a `csv` file.
 2. Go to Settings > Apps > Safari > History and Website Data > Import (Safari options in settings on iPhone and then selecting Import data and choosing the .csv file on your phone.)
    ![Screenshot 2025-02-11 at 02 18 43](https://github.com/user-attachments/assets/69b641ea-bcaa-492f-8618-c56e6f4b84ff)
