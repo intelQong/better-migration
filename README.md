@@ -6,7 +6,7 @@
 5. Run python script `py keep-to-enex.py Takeout/*.html -o output.enex`
 6. Copy the `output.enex` file to your iPhone and then share > Notes > Import Notes.
    
-_*Thanks to [Vadym Kurachevskyi](https://gitlab.com/hmvs1/google-keep-to-evernote-converter)*_
+**Thanks to [Vadym Kurachevskyi](https://gitlab.com/hmvs1/google-keep-to-evernote-converter)**
 
 ## Chrome Passwords to Safari IOS (Without MAC)
 1. Exports Chrome passwords from Chrome as a `csv` file.
@@ -15,7 +15,7 @@ _*Thanks to [Vadym Kurachevskyi](https://gitlab.com/hmvs1/google-keep-to-evernot
    
 4. Done (Check Passwords app in yout iPhone).
 
-_*Thanks to https://www.reddit.com/r/ios/comments/1fj6617/is_it_possible_to_import_passwords_into_the_new/ *_
+**Thanks to https://www.reddit.com/r/ios/comments/1fj6617/is_it_possible_to_import_passwords_into_the_new/**
 ![r](https://github.com/user-attachments/assets/87ab5484-41b1-444a-bf8f-239e30ad9db8)
 
 ## Chrome Bookmarks to Safari IOS (Without MAC)
@@ -26,4 +26,3 @@ _*Thanks to https://www.reddit.com/r/ios/comments/1fj6617/is_it_possible_to_impo
    
 4. Done (Check Safari bookmarks in yout iPhone).
 
-_*Thanks to [Vadym Kurachevskyi](https://gitlab.com/hmvs1/google-keep-to-evernote-converter)*_
