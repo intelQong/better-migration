@@ -26,3 +26,5 @@
    
 4. Done (Check Safari bookmarks in yout iPhone).
 
+_*Tested on IOS 18.3*_
+
