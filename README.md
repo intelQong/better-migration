@@ -24,7 +24,7 @@
 2. Go to Settings > Apps > Safari > History and Website Data > Import (Safari options in settings on iPhone and then selecting Import data and choosing the `.html` file on your phone.)
    ![Screenshot 2025-02-11 at 02 18 43](https://github.com/user-attachments/assets/69b641ea-bcaa-492f-8618-c56e6f4b84ff)
    
-4. Done (Check Safari bookmarks in yout iPhone).
+4. Done (Check Safari bookmarks in your iPhone).
 
    
 
